@@ -5,5 +5,5 @@ subtitle: About Me
 
 ## More Content Coming Soon
 
-Contact Info: [contact@mltydesigns.com](contact@mltydesigns.com)
+Contact Info: [contact@mltydesigns.com](mailto:contact@mltydesigns.com)
 
