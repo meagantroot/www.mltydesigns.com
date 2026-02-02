@@ -90,11 +90,11 @@ rss-description: This website is a virtual proof that I exist and that i'm aweso
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   linkedin: true
   vk: false
-  reddit: true
+  reddit: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
