@@ -19,6 +19,3 @@ Experienced IT professional with over a decade of hands-on expertise in web deve
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c247895e-4151-4e9e-af38-32f0c80997eb" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d044f5be-2424-4129-b226-02a38403106b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-
-![Meagan's GitHub Activity](https://github-readme-stats.vercel.app)
