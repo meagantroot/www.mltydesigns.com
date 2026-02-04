@@ -10,6 +10,9 @@ Experienced IT professional with over a decade of hands-on expertise in web deve
 
 [contact@mltydesigns.com](mailto:contact@mltydesigns.com)
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="meaganltruglio" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/meaganltruglio?trk=profile-badge">Connect with me on LinkedIn</a></div>
+            
+
 ### My Certifications
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="094df2af-9cba-4b12-8613-4df1ac3d25e1" data-share-badge-host="https://www.credly.com"></div>
