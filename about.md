@@ -33,13 +33,8 @@ Experienced IT professional with over a decade of hands-on expertise in web deve
 <style>
 
 /* Hides the stats/streak summary at the bottom */
-.calendar .contrib-footer {
+.calendar .contrib-footer, .calendar .contrib-column, .calendar .position-relative {
     display: none !important;
-}
-
-/* Optional: Removes the border that might be left behind */
-.calendar {
-    border: none !important;
 }
 
 /* Color the squares: L1 is lightest, L4 is darkest */
@@ -49,12 +44,11 @@ Experienced IT professional with over a decade of hands-on expertise in web deve
 .calendar .ContributionCalendar-day[data-level="3"] { fill: #7579ff !important; }
 .calendar .ContributionCalendar-day[data-level="4"] { fill: #474bff !important; }
 
-/* Optional: Match the text font to your theme */
+/* Match the text font to your theme */
 .calendar {
     font-family: inherit;
     border: none !important;
 }
-
 
 </style>
 
