@@ -34,6 +34,31 @@ Experienced IT professional with over a decade of hands-on expertise in web deve
 
 .calendar a { display: none !important; }
 
+/* Container for the heatmap */
+.calendar {
+    width: 100%;
+    margin: 0 auto;
+    overflow-x: auto; /* Adds a scrollbar on mobile instead of breaking layout */
+    overflow-y: hidden;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+/* Ensure the SVG scales with the container */
+.calendar svg.js-calendar-graph-svg {
+    width: 100% !important;
+    height: auto !important;
+    max-width: 800px; /* Adjust based on your preferred desktop size */
+}
+
+/* Optional: Make the text smaller on mobile for better fit */
+@media (max-width: 600px) {
+    .calendar {
+        font-size: 10px;
+    }
+}
+
 </style>
 
 <!-- The container for heatmap -->
