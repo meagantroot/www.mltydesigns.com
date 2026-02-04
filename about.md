@@ -32,17 +32,6 @@ Experienced IT professional with over a decade of hands-on expertise in web deve
 
 <style>
 
-.calendar {
-    overflow: hidden;
-    max-height: 180px; /* Adjust based on your layout */
-}
-
-/* This pushes the grid so only the last few weeks are visible */
-.js-calendar-graph {
-    margin-left: -70%; /* Adjust this percentage to slide the 'view' left or right */
-}
-
-
 /* Hides the stats/streak summary at the bottom */
 .calendar .contrib-footer {
     display: none !important;
