@@ -66,6 +66,8 @@ Experienced IT professional with over a decade of hands-on expertise in web deve
     Loading Meagan's contributions...
 </div>
 
+![Top Languages](https://github-readme-stats.vercel.app)
+
 <script>
     // Initialize the calendar for your username
     GitHubCalendar(".calendar", "meagantroot", { responsive: true, global_stats: false });
