@@ -33,7 +33,7 @@ Experienced IT professional with over a decade of hands-on expertise in web deve
 <style>
 
 /* Hides the stats/streak summary at the bottom */
-.calendar .contrib-footer, .calendar .contrib-footer .contrib-column, .calendar .position-relative {
+.calendar .contrib-footer, .calendar .contrib-footer .contrib-column {
     display: none !important;
 }
 
