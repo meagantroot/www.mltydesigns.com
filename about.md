@@ -28,7 +28,48 @@ Experienced IT professional with over a decade of hands-on expertise in web deve
 
 #### GitHub Activity
 
-<!-- The container for your heatmap -->
+<!-- Heatmaps Syles -->
+
+<style>
+
+.calendar {
+    overflow: hidden;
+    max-height: 180px; /* Adjust based on your layout */
+}
+
+/* This pushes the grid so only the last few weeks are visible */
+.js-calendar-graph {
+    margin-left: -70%; /* Adjust this percentage to slide the 'view' left or right */
+}
+
+
+/* Hides the stats/streak summary at the bottom */
+.calendar .contrib-footer {
+    display: none !important;
+}
+
+/* Optional: Removes the border that might be left behind */
+.calendar {
+    border: none !important;
+}
+
+/* Color the squares: L1 is lightest, L4 is darkest */
+.calendar .ContributionCalendar-day[data-level="0"] { fill: #ebedf0; } /* Empty */
+.calendar .ContributionCalendar-day[data-level="1"] { fill: #d1d5ff; } 
+.calendar .ContributionCalendar-day[data-level="2"] { fill: #a3a7ff; }
+.calendar .ContributionCalendar-day[data-level="3"] { fill: #7579ff; }
+.calendar .ContributionCalendar-day[data-level="4"] { fill: #474bff; }
+
+/* Optional: Match the text font to your theme */
+.calendar {
+    font-family: inherit;
+    border: none !important;
+}
+
+
+</style>
+
+<!-- The container for heatmap -->
 <div class="calendar">
     Loading Meagan's contributions...
 </div>
